@@ -1,0 +1,297 @@
+{
+  "version": "3.73.29904.0",
+  "course_id": "5cAhukA0D8g",
+  "title": "Mapping Primary Source Evidence",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Interactive Map"
+    },
+    {
+      "title": "Tennessee"
+    },
+    {
+      "title": "Texas"
+    },
+    {
+      "title": "Wyoming"
+    },
+    {
+      "title": "Colorado"
+    },
+    {
+      "title": "North Dakota"
+    },
+    {
+      "title": "Oregon"
+    },
+    {
+      "title": "Michigan"
+    },
+    {
+      "title": "Florida"
+    },
+    {
+      "title": "Arizona"
+    },
+    {
+      "title": "North Carolina"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5qMsf8y0wxB",
+      "title": "Title",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "69ybeQaopDb",
+      "title": "Name and Information",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6ZNNnF3559B",
+      "title": "Instructions",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6K8OcadHDvi",
+      "title": "Interactive Map",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5q2sz60FK90",
+      "title": "Explore Map or Finish Activity",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5fDtJuzUGPN",
+      "title": "Drawing Conclusions",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6o4gbq22Es2",
+      "title": "1 - Short Answer Question",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6kmo13E2jy7",
+      "title": "2 - Short Answer Question",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "5goB2KwvXDe",
+      "title": "Results",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "695DeAdIrfA",
+      "title": "Analyze",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "60muHutNus6",
+      "title": "Product?",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6WnrI7WtvkV",
+      "title": "Product Category?",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "5tOwWf0pB1R",
+      "title": "Challenges and Strategies?",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "5l5YkKuT6BJ",
+      "title": "Analyze",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "5crLz9prNPW",
+      "title": "Product?",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "6GKvJASE5Ak",
+      "title": "Product Category?",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "5gBxtNRdJ9b",
+      "title": "Challenges and Strategies?",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "6du1R4DIoUU",
+      "title": "Analyze",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "5wZc7fTdSU0",
+      "title": "Product?",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "5qRQsU3jmCx",
+      "title": "Product Category?",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "6Hf7OrqgbJf",
+      "title": "Challenges and Strategies?",
+      "scene_index": "4.4"
+    },
+    {
+      "id": "6bwin5sCbQI",
+      "title": "Analyze",
+      "scene_index": "5.1"
+    },
+    {
+      "id": "5n7vQSQMcoE",
+      "title": "Product?",
+      "scene_index": "5.2"
+    },
+    {
+      "id": "6ZcrDt8yjAv",
+      "title": "Product Category?",
+      "scene_index": "5.3"
+    },
+    {
+      "id": "60M2mS2OQ7d",
+      "title": "Challenges and Strategies?",
+      "scene_index": "5.4"
+    },
+    {
+      "id": "6b3Yi2DgSqC",
+      "title": "Analyze",
+      "scene_index": "6.1"
+    },
+    {
+      "id": "5ysJOfUH24v",
+      "title": "Product?",
+      "scene_index": "6.2"
+    },
+    {
+      "id": "6FFDPHe8M70",
+      "title": "Product Category?",
+      "scene_index": "6.3"
+    },
+    {
+      "id": "6PAw2inIKvL",
+      "title": "Challenges and Strategies?",
+      "scene_index": "6.4"
+    },
+    {
+      "id": "6ZTB3my1zHy",
+      "title": "Analyze",
+      "scene_index": "7.1"
+    },
+    {
+      "id": "63egzC8nX8p",
+      "title": "Product?",
+      "scene_index": "7.2"
+    },
+    {
+      "id": "6QWEarbEx59",
+      "title": "Product Category?",
+      "scene_index": "7.3"
+    },
+    {
+      "id": "5gpueic8YhS",
+      "title": "Challenges and Strategies?",
+      "scene_index": "7.4"
+    },
+    {
+      "id": "5t413TgAcmN",
+      "title": "Analyze",
+      "scene_index": "8.1"
+    },
+    {
+      "id": "6LqdGdeSyVW",
+      "title": "Product?",
+      "scene_index": "8.2"
+    },
+    {
+      "id": "60sfZ5jeVjv",
+      "title": "Product Category?",
+      "scene_index": "8.3"
+    },
+    {
+      "id": "6NxrbVEa9r1",
+      "title": "Challenges and Strategies?",
+      "scene_index": "8.4"
+    },
+    {
+      "id": "5bIy0U5Wb8Z",
+      "title": "Analyze",
+      "scene_index": "9.1"
+    },
+    {
+      "id": "6RXYRNogMcC",
+      "title": "Product?",
+      "scene_index": "9.2"
+    },
+    {
+      "id": "5mCxZoSBZTB",
+      "title": "Product Category?",
+      "scene_index": "9.3"
+    },
+    {
+      "id": "5er4diwFwMO",
+      "title": "Challenges and Strategies?",
+      "scene_index": "9.4"
+    },
+    {
+      "id": "64qgyGOhHwD",
+      "title": "Analyze",
+      "scene_index": "10.1"
+    },
+    {
+      "id": "6qpLbrJcLCQ",
+      "title": "Product?",
+      "scene_index": "10.2"
+    },
+    {
+      "id": "5WLMgLlho0q",
+      "title": "Product Category?",
+      "scene_index": "10.3"
+    },
+    {
+      "id": "5rs0TTipaMq",
+      "title": "Challenges and Strategies?",
+      "scene_index": "10.4"
+    },
+    {
+      "id": "5yx72NcYGUw",
+      "title": "Analyze",
+      "scene_index": "11.1"
+    },
+    {
+      "id": "5W8KkhkoPjz",
+      "title": "Product?",
+      "scene_index": "11.2"
+    },
+    {
+      "id": "6PfaZ5JOnAk",
+      "title": "Product Category?",
+      "scene_index": "11.3"
+    },
+    {
+      "id": "6kzrl28Pcvs",
+      "title": "Challenges and Strategies?",
+      "scene_index": "11.4"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 658
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
